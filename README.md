@@ -1,4 +1,4 @@
-- 👋 Hi there! I’m Shreyansh Singh, I am working as a Software Engineer with an overall 1.5 years of full time experience on frontend web technologies and libraries.
+- 👋 Hi there! I’m Shreyansh Singh, I am working as a Software Engineer with an overall 1.5 years of full time experience on frontend web technologies.
 I'm passionate about Web technologies, React, User Interface and User Experience(UI/UX).
 I love to take on interesting major and minor side projects, all of which you can check out here.
 
