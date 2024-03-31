@@ -1,6 +1,6 @@
 ![intro](https://github.com/shreyansh0510/shreyansh0510/assets/61352822/4d5003d3-fda4-4527-946e-4a6fa4cd5357) 
 
-◾ Hi there! I’m Shreyansh Singh, a passionate frontend engineer, I thrive on crafting intuitive and dynamic user interfaces that elevate the digital experience.
+◾ I work as a design-centric frontend heavy software engineer. Mostly using React, TailwindCSS, Javascript and other web technologies.
 
 ◾ General mails at shreyanshsingh0510@gmail.com
 
